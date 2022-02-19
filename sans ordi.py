@@ -1,8 +1,6 @@
 # *********************************
 # Projet NSI : JEU DU PUISSANCE 4 
-# Date: 17/02/2022
-# Nom: HALHALI  
-# Prénom: Sami
+
 # *********************************
 
 
